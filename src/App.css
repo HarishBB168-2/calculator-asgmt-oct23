@@ -133,3 +133,9 @@
   border-radius: 1.2rem;
   box-shadow: -0.6rem 0.8rem 3rem var(--bg-color-action-blue-equal);
 }
+
+.digit_group span:hover {
+  opacity: 90%;
+  background: var(--fnt-color-action-blue-equal);
+  color: var(--bg-color-action-blue-equal);
+}
